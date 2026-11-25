@@ -14,19 +14,19 @@
 - 🚀 Open to **Summer 2027 SWE & AI internships**
 - 🌐 Portfolio: **[codeakshay.vercel.app](https://codeakshay.vercel.app)**
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codeAkshay21&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&icon_color=7aa2f7&text_color=c0caf5" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=codeAkshay21&theme=tokyonight&hide_border=true&background=0d1117&ring=c792ea&fire=c792ea&currStreakNum=ffd866&currStreakLabel=ffd866&sideNums=c792ea&sideLabels=c792ea&dates=7dcfff" alt="GitHub streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=codeAkshay21&show_icons=true&include_all_commits=true&count_private=true&card_width=495&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=c792ea&icon_color=7aa2f7&text_color=c0caf5" alt="GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=codeAkshay21&theme=tokyonight&background=0d1117&border=30363d&ring=c792ea&fire=c792ea&currStreakNum=ffd866&currStreakLabel=ffd866&sideNums=c792ea&sideLabels=c0caf5&dates=7dcfff" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeAkshay21&layout=compact&langs_count=8&card_width=420&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=c0caf5&custom_title=Language%20Stack" alt="Language stack" />
+  <img width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeAkshay21&layout=compact&langs_count=8&card_width=1000&custom_title=Language%20Stack&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=c792ea&icon_color=7aa2f7&text_color=c0caf5" alt="Language stack" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeAkshay21&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7aa2f7&line=c792ea&point=ffd866&area=true&custom_title=Contribution%20Activity" alt="Contribution activity" />
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeAkshay21&theme=tokyo-night&bg_color=0d1117&color=7aa2f7&line=c792ea&point=ffd866&area=true&area_color=c792ea&height=300&radius=6&custom_title=Contribution%20Activity" alt="Contribution activity" />
 </p>
 
 ## 🛠️ Languages & Tools
