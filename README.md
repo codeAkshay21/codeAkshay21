@@ -1,7 +1,7 @@
 <h1 align="center">Hey 🧑‍💻 I'm Akshay Yadav</h1>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczl0azNjYnBnaXFrcHlmYnZvZmUzY3hid2pmZ3pxdDRiaTBndHNtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding" width="100%" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczl0azNjYnBnaXFrcHlmYnZvZmUzY3hid2pmZ3pxdDRiaTBndHNtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding" width="420" />
 </p>
 
 ## 📌 About Me
