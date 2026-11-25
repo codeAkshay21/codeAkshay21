@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeAkshay21&layout=compact&langs_count=8&card_width=495&custom_title=Language%20Stack&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=c792ea&icon_color=7aa2f7&text_color=c0caf5" alt="Language stack" />
+  <img width="98.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeAkshay21&layout=compact&langs_count=8&card_width=995&custom_title=Language%20Stack&theme=tokyonight&bg_color=0d1117&border_color=30363d&title_color=c792ea&icon_color=7aa2f7&text_color=c0caf5" alt="Language stack" />
 </p>
 
 <p align="center">
