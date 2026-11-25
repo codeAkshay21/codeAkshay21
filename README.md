@@ -1,29 +1,73 @@
-<h1 align="center">Hi 👋, I'm Akshay Yadav</h1>
-<h3 align="center">A passionate  developer from The United States of America </h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczl0azNjYnBnaXFrcHlmYnZvZmUzY3hid2pmZ3pxdDRiaTBndHNtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+<h1 align="center">Hey 🧑‍💻 I'm Akshay Yadav</h1>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codeakshay21&label=Profile%20views&color=0e75b6&style=flat" alt="codeakshay21" /> </p>
-
-<p align="left"> <a href="https://twitter.com/akshhayyy02" target="blank"><img src="https://img.shields.io/twitter/follow/akshhayyy02?logo=twitter&style=for-the-badge" alt="akshhayyy02" /></a> </p>
-
-- 🔭 I’m currently working on **Saas**
-
-- 🌱 I’m currently learning **React Native**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/akshhayyy02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshhayyy02" height="30" width="40" /></a>
-<a href="https://instagram.com/akshayy.021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshayy.021" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/akshayyadav21539" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akshayyadav21539" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akshayyadav3261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshayyadav3261" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczl0azNjYnBnaXFrcHlmYnZvZmUzY3hid2pmZ3pxdDRiaTBndHNtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+## 📌 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeakshay21&show_icons=true&locale=en&layout=compact" alt="codeakshay21" /></p>
+> 💡 ✏️ *Full-stack & AI engineer, MS CS @ NYU Tandon. I build full-stack products and AI tools for messy, real-world problems.*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeakshay21&show_icons=true&locale=en" alt="codeakshay21" /></p>
+- 🎓 Studying **MS Computer Science at NYU Tandon**
+- 🔨 Building **[Penny](https://github.com/codeAkshay21/penny)**, a finance app for students
+- 🤖 Also shipped **[ExamPilot](https://github.com/codeAkshay21/ExamPilot)** and **[Product Data Explorer](https://github.com/codeAkshay21/product-data-explorer)**
+- 🚀 Open to **Summer 2027 SWE & AI internships**
+- 🌐 Portfolio: **[codeakshay.vercel.app](https://codeakshay.vercel.app)**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeakshay21&" alt="codeakshay21" /></p>
+## 📊 GitHub Stats & Trophies
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codeAkshay21&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&icon_color=7aa2f7&text_color=c0caf5" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=codeAkshay21&theme=tokyonight&hide_border=true&background=0d1117&ring=c792ea&fire=c792ea&currStreakNum=ffd866&currStreakLabel=ffd866&sideNums=c792ea&sideLabels=c792ea&dates=7dcfff" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeAkshay21&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=c0caf5&custom_title=Language%20Stack" alt="Language stack" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeAkshay21&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7aa2f7&line=c792ea&point=ffd866&area=true&custom_title=Contribution%20Activity" alt="Contribution activity" />
+</p>
+
+## 🛠️ Languages & Tools
+
+### Programming Languages
+<p align="center"><img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,html,css" /></p>
+
+### Frontend
+<p align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /></p>
+
+### Backend
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,prisma" /></p>
+
+### Database
+<p align="center"><img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql" /></p>
+
+### AI & ML
+<p align="center"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" /></p>
+
+### DevOps & Cloud
+<p align="center"><img src="https://skillicons.dev/icons?i=docker,aws,vercel,githubactions" /></p>
+
+### Tools
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,n8n" /></p>
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://codeakshay.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/akshayyadav21"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:akshayyadav3261@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://leetcode.com/akshayyadav3261"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://twitter.com/akshhayyy02"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeAkshay21/codeAkshay21/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeAkshay21/codeAkshay21/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/codeAkshay21/codeAkshay21/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=codeakshay21&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile views" /></p>
